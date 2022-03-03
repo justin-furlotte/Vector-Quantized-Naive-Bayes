@@ -7,7 +7,7 @@ Ordinary naive Bayes is a probabilistic binary classification model. One of it's
 
 Here is a plot of this particular MNIST example, using a value of k=5 for the clustering:
 
-![alt text](https://github.com/justin-furlotte/Vector-Quantized-Naive-Bayes/example/mnist35_example.png?raw=true)
+![alt text](https://github.com/justin-furlotte/Vector-Quantized-Naive-Bayes/mnist35_example/mnist35_example.png?raw=true)
 
 
 Download the "READ-ME.pdf" for a mathematical description (with equations).

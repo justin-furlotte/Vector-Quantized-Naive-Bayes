@@ -11,7 +11,7 @@ Here is a plot of this particular MNIST example, using a value of k=5 for the cl
 
 On this particular dataset, VQNB scored a test error of 0.04 (far from the cutting edge on MNIST digits, but still useful to show that it does significantly better than ordinary NB, which got a test error of 0.10).
 
-Unfortunately github does not support LaTeX rendering, so download the "READ-ME.pdf" for a mathematical description (with equations), or simply read a screenshot of it here:
+Unfortunately github does not currently support LaTeX rendering, so download the "READ-ME.pdf" for a mathematical description (with equations), or simply read a screenshot of it here:
 
 ![alt text](https://github.com/justin-furlotte/Vector-Quantized-Naive-Bayes/blob/main/vqnb_math.png)
 
